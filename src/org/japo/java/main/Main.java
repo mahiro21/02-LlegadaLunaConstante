@@ -22,7 +22,7 @@ package org.japo.java.main;
 public class Main {
 
     public static void main(String[] args) {
-        final int ANY_LLEGADA_LUNA =1969;
-        System.out.printf("El hombre llegó a la luna en %d.%n",ANY_LLEGADA_LUNA);
+        final int ANY_LLEGADA_LUNA = 1969;
+        System.out.printf("El hombre llegó a la luna en %d.%n", ANY_LLEGADA_LUNA);
     }
 }
